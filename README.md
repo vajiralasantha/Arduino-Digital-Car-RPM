@@ -3,8 +3,8 @@ This is my first Arduino project. An Arduino powered digital RPM and speedometer
 
 Please note that some of the codes of this project I have taken from internet. So credits for them go to those developers.
 
-You can get my codes here:
-https://www.dropbox.com/s/4xdim90gspuys5z/rpm_only_ino.ino
+You can watch my working solution:
+https://www.youtube.com/watch?v=l1aM1aSg-58
 
 RPM codes:
 http://jonduino.weebly.com/shift-light.html
