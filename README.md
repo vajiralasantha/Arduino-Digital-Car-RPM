@@ -1,4 +1,4 @@
-# Arduino-Digital-Car-RPM
+# Arduino Digital Car RPM
 This is my first Arduino project. An Arduino powered digital RPM and speedometer. I still haven't completed this 100%, but I thought of sharing what I have done with you guys.
 
 Please note that some of the codes of this project I have taken from internet. So credits for them go to those developers.
